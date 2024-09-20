@@ -4,11 +4,10 @@
 This project implements fire segmentation using the YOLOv8 model. The model is trained to detect and segment fire in images, making it useful for applications in fire detection and safety monitoring.
 
 ## Result:-
-Image output-
-(https://github.com/user-attachments/assets/d9e71ae3-25dd-469d-ad91-61fd538f47ad)
-Video Output-
+# Image output-
+https://github.com/user-attachments/assets/d9e71ae3-25dd-469d-ad91-61fd538f47ad
 
-
+# Video Output-
 https://github.com/user-attachments/assets/8932873d-f58f-4448-a360-6c1c6725d2e7
 
 
