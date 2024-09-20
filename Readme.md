@@ -1,7 +1,7 @@
 # Fire Segmentation using YOLOv8
 
 ## Overview
-This project implements fire segmentation using the YOLOv8 model. The model is trained to detect and segment fire in images, making it useful for applications in fire detection and safety monitoring.
+This project implements fire segmentation using the YOLOv8 model. The model is trained to detect and segment fire in CCTV footage videos or any Videos, making it useful for applications in fire detection and safety monitoring.
 
 ## Results
 
