@@ -17,16 +17,17 @@ To get started, clone this repository and install the required packages:
 ```bash
 git clone https://github.com/yourusername/fire-segmentation.git
 cd fire-segmentation
-pip install -r requirements.txt
+# Please install below requirements
 Requirements
-Python 3.10 or higher
+Python 3.10 
 PyTorch
 Ultralytics YOLOv8
 Roboflow
+```
 You can install the necessary packages using:
 
 pip install ultralytics==8.0.196 roboflow
-```
+
 Usage
 To run the fire segmentation model, use the following command:
 
